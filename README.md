@@ -31,7 +31,7 @@ matlab/optimization.m
 matlab/orce_quiver_phased.m
 ```
 
-**マルチチャンネル再生**
+ # マルチチャンネル再生
 
 matlabで作成した信号を半球上トランスデューサアレイに出力し物体を非接触で操作
 ```
